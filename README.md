@@ -39,4 +39,9 @@ Help:
 python3 HostMap.py -h
 ```
 
-## 📊 Example Output:
+## 📊 Example Output Screenshot:
+![Sample Output](images/screenshot1.png)
+
+## 📝 License
+This project is licensed under the MIT License.
+See the LICENSE file for details.
