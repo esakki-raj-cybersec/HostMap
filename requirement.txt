@@ -1,0 +1,3 @@
+scapy==2.6.1
+rich==15.0.0
+mac-vendor-lookup==0.1.15
